@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bk:bank xmlns:bk="http://www.example.org/bankDB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/bankDB ../src/SC13Project/Milestone1/Payment/bankDB.xsd ">
+  <bk:account>
+    <bk:accountID>BK00001</bk:accountID>
+    <bk:amount>10</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00002</bk:accountID>
+    <bk:amount>20</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00003</bk:accountID>
+    <bk:amount>30</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00004</bk:accountID>
+    <bk:amount>40</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00005</bk:accountID>
+    <bk:amount>100</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00006</bk:accountID>
+    <bk:amount>90</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00007</bk:accountID>
+    <bk:amount>80</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00008</bk:accountID>
+    <bk:amount>70</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00009</bk:accountID>
+    <bk:amount>60</bk:amount>
+  </bk:account>
+  <bk:account>
+    <bk:accountID>BK00010</bk:accountID>
+    <bk:amount>50</bk:amount>
+  </bk:account>
+</bk:bank>
