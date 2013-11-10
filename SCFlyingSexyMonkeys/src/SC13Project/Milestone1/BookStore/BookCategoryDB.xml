@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:category xmlns:tns="http://www.example.org/BookCategoryDB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/BookCategoryDB BookCategoryDB.xsd ">
+  <tns:book>
+    <tns:title>ABC</tns:title>
+    <tns:resourceID>123</tns:resourceID>
+    <tns:ISBN13>ISBN1300</tns:ISBN13>
+    <tns:ISBN10>ISBN1000</tns:ISBN10>
+    <tns:authors>
+      <tns:author>ERT</tns:author>
+    </tns:authors>
+    <tns:pageNum>0</tns:pageNum>
+    <tns:publisher>XYZer</tns:publisher>
+    <tns:publishdate>123456</tns:publishdate>
+    <tns:version>1</tns:version>
+    <tns:price>0.0</tns:price>
+  </tns:book>
+  <tns:book>
+    <tns:title>DEF</tns:title>
+    <tns:resourceID>456</tns:resourceID>
+    <tns:ISBN13>ISBN1311</tns:ISBN13>
+    <tns:ISBN10>ISBN1011</tns:ISBN10>
+    <tns:authors>
+      <tns:author>FGHer</tns:author>
+    </tns:authors>
+    <tns:pageNum>12</tns:pageNum>
+    <tns:publisher>juki</tns:publisher>
+    <tns:publishdate>2346546</tns:publishdate>
+    <tns:version>1</tns:version>
+    <tns:price>0100</tns:price>
+  </tns:book>
+</tns:category>
